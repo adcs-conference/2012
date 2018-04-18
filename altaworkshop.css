@@ -1,0 +1,165 @@
+BODY {
+	MARGIN: 0px; BACKGROUND: #ffffff
+}
+P {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: small; padding-left: 8px; LINE-HEIGHT: 120%;
+}
+TD {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: small 
+}
+TR {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: small
+}
+TABLE {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: small
+}
+BODY {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: small
+}
+LI {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: small
+}
+UL {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: small
+}
+I {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: small
+}
+B {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: small
+}
+H1 {
+	LINE-HEIGHT: 140%; BACKGROUND-COLOR: #ffffff; 
+	FONT-FAMILY: Verdana, Arial, 
+	Helvetica, sans-serif; 
+	COLOR: #A61009; FONT-SIZE: large; 
+	FONT-WEIGHT: bold; PADDING-TOP: 1ex; 
+}
+H2 {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #606060; 
+	FONT-SIZE: medium; FONT-WEIGHT: bold
+}
+H3 {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #A61009; FONT-SIZE: small; FONT-WEIGHT: bold; padding-left: 8px;
+}
+H4 {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #606060; FONT-SIZE: small; padding-left: 8px;
+}
+A:link {
+	COLOR: #000000
+}
+A:visited {
+	COLOR: #000000
+}
+A:hover {
+	COLOR: #000000
+}
+.sitename {
+	LINE-HEIGHT: 140%; BACKGROUND-COLOR: #ffffff; PADDING-RIGHT: 1ex; FONT-FAMILY: Verdana; COLOR: #606060; FONT-SIZE: 18pt; FONT-WEIGHT: bold; padding-left: 12px;
+}
+.normal {
+	LINE-HEIGHT: 100%; PADDING-TOP: 0ex; BACKGROUND-COLOR: #ffffff; PADDING-RIGHT: 1ex; FONT-FAMILY: Verdana; COLOR: #606060; padding-left: 12px;
+}
+
+.headerbar {
+	PADDING-LEFT: 1ex; PADDING-RIGHT: 2ex; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND: #606060; COLOR: #ffffff; FONT-SIZE: small
+}
+.headercell {
+	PADDING-TOP: 2ex
+}
+.headerhighlight {
+	COLOR: #aaaaff; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 2ex
+}
+A.headerhighlight {
+	COLOR: #aaaaff; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 2ex
+}
+.subheadercell {
+	PADDING-LEFT: 2em; FONT-SIZE: x-small; PADDING-TOP: 2ex
+}
+.subheaderhighlight {
+	PADDING-LEFT: 1em; COLOR: #aaaaff; FONT-SIZE: x-small; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 2ex
+}
+A.subheaderhighlight {
+	COLOR: #aaaaff; FONT-SIZE: x-small; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.headerlink {
+	BACKGROUND-COLOR: #606060; COLOR: #cc99ff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.headerlink:link {
+	BACKGROUND-COLOR: #606060; COLOR: #ffffff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.headerlink:visited {
+	BACKGROUND-COLOR: #606060; COLOR: #ffffff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.headerlink:hover {
+	BACKGROUND-COLOR: #606060; FONT-STYLE: normal; COLOR: #aaaaff; TEXT-DECORATION: none
+}
+STRONG {
+	COLOR: #000000; FONT-WEIGHT: bold
+}
+DT {
+	MARGIN-TOP: 0.2cm; COLOR: #000000; FONT-WEIGHT: bold
+}
+.breadcrumbs {
+	PADDING-BOTTOM: 1ex; FONT-SIZE: x-small
+}
+.channel {
+	BORDER-BOTTOM: #7d0552 1px solid; BORDER-LEFT: #7d0552 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND: #ffeeee; COLOR: #000000; FONT-SIZE: small; BORDER-TOP: #7d0552 1px solid; BORDER-RIGHT: #7d0552 1px solid
+}
+.channelhead {
+	LINE-HEIGHT: 140%; PADDING-LEFT: 1ex; PADDING-RIGHT: 1ex; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND: #606060; COLOR: #ffffff; FONT-SIZE: medium; FONT-WEIGHT: bold
+}
+.channelbody {
+	PADDING-BOTTOM: 0.5ex; PADDING-LEFT: 1ex; PADDING-RIGHT: 1ex; PADDING-TOP: 0.5ex
+}
+.news {
+	PADDING-BOTTOM: 1ex; LINE-HEIGHT: 140%; PADDING-LEFT: 1ex; PADDING-RIGHT: 1ex; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND: #ffffcc; COLOR: #000000; FONT-SIZE: small; PADDING-TOP: 1ex
+}
+.newsdate {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #606060; FONT-SIZE: smaller; FONT-WEIGHT: bold
+}
+.footertext {
+	BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 2ex; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #999999; FONT-SIZE: small; PADDING-TOP: 1ex
+}
+
+
+
+
+
+/***** Contact Form Elements *****/
+.clear:after { content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+.clear { display: inline-block; }
+html[xmlns] .clear { display: block;}
+* html .clear { height: 1%;}
+.wrapper { width:300px; margin:0 auto; padding: 50px 0px;}
+
+#contactWrapper { width:300px; border:1px solid #cfdede; background:#fdfdfd; padding:30px; }
+#contactWrapper h1 { font-size: 11px; margin: -33px 0px 30px; padding: 5px 0px 0px 15px; font-size: 12px; text-transform: uppercase; background: url(./img/title-background.png) no-repeat; width: 138px; height: 22px; color: #fff; font-weight: bold;}
+#contactWrapper label { display:block; float:none; font-size:12px; width:auto; font-weight: bold; margin-bottom: 7px; color: #333333;}
+#contactWrapper radiolabel {  float:left; font-size:12px; width:auto; font-weight: bold; margin-bottom: 7px; color: #333333;}
+
+#contactWrapper label.error { display:block; float:none; font-size:12px; width:auto; font-weight: normal; margin-bottom: 0px; color: #bb3737; background: #fad6d6; border: 1px solid #bb3737; margin-top: 5px; padding: 5px 7px;}
+#contactWrapper label.checked { display:none; background: none; border: 0px; margin-top: 0px; padding: 0px; text-indent: -5000px;}
+#contactWrapper em { color: #01b3b3;}
+#contactWrapper .stage { margin-bottom: 20px;}
+#contactWrapper .requiredNote { margin: 20px 0px 20px; color: #333; font-weight: bold;}
+#contactWrapper .success { padding: 10px; background: #f0ffc1; border: 1px solid #819934; margin-bottom: 15px; color: #819934;}
+#contactWrapper .success p { margin: 0px;}
+
+form#contactform input, form#contactform textarea { border: 1px solid #cfdede; padding:8px 12px; font-size:12px; color:#333; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; width: 274px; background: url(./img/page-background.png) repeat; color: #777777;}
+form#contactform textarea {font:12px Arial, Helvetica, sans-serif; padding: 12px;}
+form#contactform input#cruiseyes {clear:both; width: 75px;}
+form#contactform input#cruiseno  {clear:both; width: 75px; }
+form#contactform input#pizzayes {clear:both; width: 75px;}
+form#contactform input#pizzano  {clear:both; width: 75px; }
+form#contactform input:focus, form#contactform textarea:focus { outline: none; border: 1px solid #649d9d;}
+
+#submitButton {display: block;text-indent: -5000px;width: 300px!important;height: 47px;background-image:url(./img/send-button-sprite.png)!important;background-repeat: no-repeat;border: 0px!important;padding: 0px!important;}
+#submitButton {background-position: 0 0;}
+#submitButton:hover {background-position: 0 -47px;}
+#submitButton:active {background-position: 0 -47px;}
+
+
+
+
+
